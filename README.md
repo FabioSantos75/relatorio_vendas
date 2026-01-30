@@ -29,3 +29,7 @@ Através de dados fictícios apresento um relatório de vendas com análise expl
 
 Os dados apresentam uma tabela pequena com 6 colunas e 51 linhas, sobre informações de vendas de cursos como Excel e Power Bi, assim também como formas de pagamento valores e datas.
 A partir desses dados disponíveis, apesar de ser pouco, podemos tirar informações preciosas para a tomada de decisões futuras da empresa responsável.
+
+
+CLIQUE AQUI PARA TER ACESSO A ANÁLISE COMPLETO EM MEU BLOG:
+[Site do projeto]([https://meuprojeto.example](https://fabiosantos2407.wixsite.com/santos/post/relat%C3%B3rio-de-vendas))
